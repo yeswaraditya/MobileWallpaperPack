@@ -1,5 +1,5 @@
 # I have Designed mobile Wallpapers
-[Click Here to Download Full Pack](https://github.com/yeswaraditya/mobileWallpaperPack/archive/refs/heads/main)
+[Click Here to Download Full Pack](https://github.com/yeswaraditya/mobileWallpaperPack/archive/refs/heads/main.zip)
 
 # Preview
 
